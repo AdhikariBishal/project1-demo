@@ -1,4 +1,4 @@
 # project1-demo
 This is my first Git Repository
 <br>
-Author:- Bishal Kumar Yadav
+Author:- Bishal Kumar Yadav(adhikari)
